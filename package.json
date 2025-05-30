@@ -2,7 +2,7 @@
   "name": "tryathletes",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://rgrabaya.github.io/tryathletes",
+  "homepage": "https://tryaths.xyz",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
